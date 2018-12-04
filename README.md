@@ -1,5 +1,5 @@
 # openfire + spark 聊天服务器+客户端搭建
-openfire聊天服务器搭建
+
 
 ### openfire_config1.doc
 服务端的搭建
